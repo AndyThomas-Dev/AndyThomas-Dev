@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @AndyThomas-Dev
-A Bristol-based MSc graduate, former energy professional and current junior developer at CPH Insight.
+Bristol-based MSc graduate, former energy professional and now software developer at CPH Insight.
 
 ## 👀 I’m interested in ...
 Working across the full stack and building beautiful applications with a purpose.
