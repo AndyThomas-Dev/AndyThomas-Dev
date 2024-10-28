@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @AndyThomas-Dev
+## 👋 Hi, I’m Andy
 Bristol-based MSc graduate and software developer. Currently at CPH Insight, making tech for the automotive industry.
 
 The languages & frameworks I work with in my day-to-day are C#, SQL, .NET Core, Angular, Selenium and Typescript but I'm also proficient in Python and C.
